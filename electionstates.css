@@ -29,7 +29,7 @@
 #vote-bar-wrap{
 	overflow: hidden;
 	position: relative;
-	top: 0;
+	top: 20px;
 	left: 29.65%;
 	width: 750px;
 
@@ -43,12 +43,15 @@
 }
 #blue-bar{
 	background-color: #445e96;
+	float: left;
 }
 #red-bar{
 	background-color: #ba3a33;
+	float: left;
 }
 #open-bar{
 	background-color: #c2b280;
+	float: left;
 }
 #vote-bar-wrap .vote{
 
